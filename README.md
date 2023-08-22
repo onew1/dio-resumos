@@ -11,7 +11,7 @@ Repositórios para adicionar resumos de GitHub do curso da [DIO](https://web.dio
 
 | Aulas  | Resumos |
 |--------|---------|
-|Gravando Alterações de Repositório Local | [Resumos]()|
+|Gravando Alterações de Repositório Local | [Resumo]()|
 
 ```
 git init
