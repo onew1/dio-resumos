@@ -1,5 +1,5 @@
 
-# DIO RESUMOS GIT E GITHUB
+# DIO RESUMOS GIT E GITHU
 
 Repositórios para adicionar resumos de GitHub do curso da [DIO](https://web.dio.me/home).
 
